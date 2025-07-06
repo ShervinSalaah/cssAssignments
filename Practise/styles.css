@@ -1,7 +1,12 @@
-.purple{
-    color:purple;
+#pi{
+    font-size:1px;
 }
-
-*{
-    color:cornflowerblue;
+#point{
+    font-size:1pt;
+}
+#em{
+    font-size: 1em;
+}
+#rem{
+    font-size: 1rem;
 }
